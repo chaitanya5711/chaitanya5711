@@ -20,7 +20,7 @@
 - 🎓 B.E. Information Technology (2026) · CGPA: **8.2 / 10** · Shrimati Kashibai Navale College of Engineering, Pune
 - 📊 Passionate about turning raw data into decisions — working with Python, SQL, and Power BI
 - 🤖 Exploring workflow automation with **n8n** to build intelligent, no-code data pipelines
-- ☕ Strong foundation in **Java, OOP, and JDBC** — structured and logical thinker
+- ☕ Strong foundation in **Java, OOPs, and SQL,LLM** — structured and logical thinker
 - 🔍 Interests: Exploratory Data Analysis, Business Intelligence, Data Visualization, ML fundamentals
 
 ---
