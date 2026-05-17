@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Jadhav</h1>
 <h3 align="center">Data Analyst | AI/ML Enthusiast | Turning Data into Insights</h3>
 
-- 🌱 I’m currently strengthening my skills in **Data Analytics, Machine Learning, LLMs, and Generative AI through real-world projects.**
+- 🌱 I’m currently working on **strengthening my Data Science, AI/ML, and Analytics skills through hands-on projects.**
 
-- 💡 Passionate about solving business problems using **Data Science and AI-driven solutions.**
+- 🤖 I love building projects using **Machine Learning, LLMs, RAG, and Generative AI technologies.**
 
-- 🧠 Currently exploring **LLMs, RAG Applications, Predictive Analytics, and AI Automation.**
+- 📊 Passionate about **Data Analytics, Visualization, Predictive Modeling, and solving business problems with data.**
 
-- 📫 How to reach me: **yourmail@gmail.com**
+- 🏆 Dean’s List student with **9.32 CGPA**
 
-- 📄 Check my Resume: [Resume Link](https://your-resume-link.com)
+- 📫 How to reach me **yourmail@gmail.com**
 
-- 🌍 Location: **Pune, India**
+- 📄 Check my [Resume](https://your-resume-link.com)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -50,8 +50,6 @@
     </td>
   </tr>
 </table>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -124,49 +122,47 @@
 
   <tr>
     <td align="center" width="96">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="45" height="45" alt="LLM" />
-      <br>LLMs
+      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" height="45" alt="LangChain" />
+      <br>LangChain
     </td>
 
     <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" height="45" alt="RAG" />
-      <br>RAG
-    </td>
-
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" height="45" alt="Generative AI" />
-      <br>Gen AI
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" height="45" alt="OpenAI" />
+      <br>OpenAI
     </td>
 
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" />
       <br>HTML
     </td>
+
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" />
+      <br>CSS
+    </td>
   </tr>
 </table>
 
----
-
 <h3 align="left">Projects:</h3>
 
-- 🤖 AI Resume Analyzer  
-- 📊 Power BI Sales Dashboard  
-- 🔍 Customer Churn Prediction  
-- 💬 LLM + RAG Chatbot  
-- 📈 Exploratory Data Analysis Projects  
-
----
+<ul>
+  <li>🤖 AI Resume Analyzer</li>
+  <li>📊 Power BI Sales Dashboard</li>
+  <li>💬 LLM + RAG Chatbot</li>
+  <li>📈 Customer Churn Prediction</li>
+  <li>🔍 Exploratory Data Analysis Projects</li>
+</ul>
 
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
