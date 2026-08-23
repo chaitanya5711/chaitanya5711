@@ -215,11 +215,7 @@
 - 🧠 **Machine Learning** — Predictive analytics, classification models with scikit-learn
 
 ---
-## 📊 **GITHUB STATS**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanya5711)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya5711&layout=compact)
 
 ---
 
