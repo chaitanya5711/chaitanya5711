@@ -22,8 +22,8 @@
 📍 Based in Pune, India | Open to opportunities and relocation.
 
 **📊 Quick Stats:**
-- ✅ **CGPA: 8.2/10** | B.E. Information Technology, SKNCOE Pune
-- ✅ **5+ months internship** at Maestro Intellect (Data Analytics)
+- ✅ **CGPA: 8.24/10** | B.E. Information Technology, SKNCOE Pune
+- ✅ **6 months internship** at Maestro Intellect (Data Analytics)
 - ✅ **6+ production-ready projects** with measurable business impact
 - ✅ **Proficient in:** Python, SQL, Power BI, Excel, Java, n8n, Git
 - ✅ **Currently working on:** AI-powered data pipelines, SQL optimization, portfolio development
@@ -215,14 +215,15 @@
 - 🧠 **Machine Learning** — Predictive analytics, classification models with scikit-learn
 
 ---
-
 ## 📊 **GITHUB STATS**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyajadhav&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanya5711&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyajadhav&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya5711&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaitanya5711&theme=radical)
 
 </div>
 
