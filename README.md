@@ -217,9 +217,9 @@
 ---
 ## 📊 **GITHUB STATS**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanya5711&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanya5711)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya5711&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya5711&layout=compact)
 
 ---
 
