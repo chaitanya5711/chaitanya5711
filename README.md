@@ -30,16 +30,15 @@
 
 ---
 
-## 🎯 **KEY ACCOMPLISHMENTS**
+## **KEY ACCOMPLISHMENTS**
 
-| Achievement | Impact |
+| **Achievement** | **Impact** |
 |---|---|
-| 📊 Built **interactive Power BI dashboards** | Reduced manual reporting time by **60%** |
-| 🔍 Netflix EDA on **8,000+ titles** | Identified 3 key content trends driving engagement |
-| 🍽️ Automated restaurant workflow with n8n | Eliminated **manual order coordination**, saved 2+ hours/day |
-| 💻 Full-stack Java systems (Hospital, Employee, Grocery Management) | Shipped 3 CRUD applications with **JDBC persistence** |
-| 📈 SQL customer tenure analysis & layoff dataset queries | Wrote optimized queries, reduced query time by **40%** |
-| 🤖 Exploring LLM integrations & AI pipelines | Currently building AI-powered content & analysis tools |
+| 📊 Built **interactive Power BI dashboards** | Created dashboards to track KPIs and generate actionable business insights |
+| 📈 Analyzed **sales and customer data using SQL & Python** | Identified trends and patterns to generate actionable business insights and support data-driven decisions |
+| 🍽️ Automated **restaurant workflows using AI Agents & n8n** | Reduced manual effort by automating customer interactions and order-related tasks |
+| 🤖 Built **AI-powered applications using LLMs** | Developed practical solutions using Generative AI, prompt engineering, and APIs |
+| 🏥 Developed an **AI-powered Healthcare Platform** | Combined LLMs, data analysis, and healthcare APIs to generate useful insights and resources |nes | Currently building AI-powered content & analysis tools |
 
 ---
 
