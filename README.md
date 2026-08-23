@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Data Analyst | AI/ML Engineer | Full-Stack Developer
+### 🚀 Data Analyst | AI/ML Engineer 
 ### Building data-driven solutions that scale | Open to opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-jadhav-369344259/)
@@ -16,7 +16,10 @@
 
 ## 💼 **QUICK PITCH FOR RECRUITERS**
 
-> 🎯 **Hiring?** I'm a **final-year IT student (2025 batch)** with **5+ months of hands-on internship** in data analytics and a proven track record of delivering **business-impact projects**. I specialize in **Data Analytics, Python, SQL, Power BI,** and **workflow automation**. Ready for **Data Analyst, AI Engineer, or Full-Stack Developer roles**. Currently based in **Pune, open to relocation** for the right opportunity.
+🎯 Recent IT Graduate passionate about Data Analytics, AI, and Software Development.
+💻 Skilled in Python, SQL, Power BI, Data Analytics, Generative AI, and workflow automation.
+🚀 I enjoy building practical projects, exploring new technologies, and solving real-world problems with data and AI.
+📍 Based in Pune, India | Open to opportunities and relocation.
 
 **📊 Quick Stats:**
 - ✅ **CGPA: 8.2/10** | B.E. Information Technology, SKNCOE Pune
