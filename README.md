@@ -217,15 +217,9 @@
 ---
 ## 📊 **GITHUB STATS**
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanya5711&show_icons=true&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanya5711&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya5711&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaitanya5711&theme=radical)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya5711&theme=dark)
 
 ---
 
