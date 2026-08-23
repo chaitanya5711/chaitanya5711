@@ -131,43 +131,51 @@
 
 ---
 
-### 4️⃣ **🏥 Hospital Management System — Java**
-`Java` `MySQL` `JDBC` `OOP` `Database Design`
+## 🚀 Featured Projects
 
-**Features:**
-- Full **CRUD operations** for patients, doctors, appointments, billing
-- **Modular OOP architecture**—clean separation of concerns
-- **JDBC connectivity** with persistent MySQL backend
-- Role-based access (admin, doctor, receptionist)
+### 🤖 AI Cold Email Generator
+**Tech Stack:** Python, LangChain, Groq, ChromaDB, Streamlit, SQLite
 
-**Highlights:**
-- ✅ Designed **relational schema** with proper normalization
-- ✅ Implemented **connection pooling** for efficient database access
-- ✅ Built **error handling** and transaction management
+- Built an AI-powered cold email generator that analyzes job descriptions and extracts key job requirements using **Groq LLM and LangChain**.
+- Implemented **resume parsing and resume-to-job matching** to identify matched and missing skills.
+- Integrated **ChromaDB** to recommend relevant portfolio projects based on job requirements.
+- Generated personalized recruiter-ready emails with **AI-based email evaluation** and TXT/PDF/DOCX export.
+- Used **Streamlit and SQLite** to build the application and store generated email history.
 
----
+### 🍽️ Restaurant Automation using AI Agent
+**Tech Stack:** Python, n8n, AI Agents, NLP, WhatsApp API
 
-### 5️⃣ **👥 Employee Management System — Java + SQL**
-`Java` `MySQL` `JDBC` `SQL Queries`
+- Built an AI-powered restaurant automation workflow using **n8n** to handle customer inquiries, orders, and reservations.
+- Developed an **AI Agent** to understand customer requests and automate routine restaurant operations.
+- Integrated restaurant backend systems, APIs, and messaging platforms for smoother order processing and communication.
+- Automated repetitive workflows to **reduce manual effort and improve operational efficiency**.
 
-**Features:**
-- Employee record management: add, update, delete, search operations
-- **Department hierarchy** and role-based access
-- Persistent database storage with **complex SQL queries**
-- Salary & benefits tracking
+### 📊 Business Intelligence Analysis of Global Tech Layoffs (2020–2025)
+**Tech Stack:** Python, SQL, Pandas, Power BI, Excel
 
----
+- Analyzed global technology layoff data from **2020–2025** to identify trends across companies, industries, locations, and time periods.
+- Cleaned and transformed the dataset using **Python and Pandas** for analysis.
+- Used **SQL** to perform aggregations, filtering, and trend analysis to identify key patterns.
+- Created an interactive **Power BI dashboard** to visualize layoffs and generate business insights.
+- Identified important trends related to layoff volumes, companies, industries, and geographic regions.
 
-### 6️⃣ **🛒 Grocery Management System — Java**
-`Java` `MySQL` `JDBC` `Inventory Management`
+### 📈 Customer Churn & Retention Analysis
+**Tech Stack:** Python, SQL, Power BI, Pandas
 
-**Features:**
-- Product browsing, cart management, checkout
-- Real-time **inventory tracking** with automatic reorder alerts
-- Invoice generation with itemized billing
+- Analyzed **10K+ telecom customer records** to identify factors affecting customer churn and retention.
+- Used advanced **SQL queries, CTEs, window functions, and aggregations** to analyze customer behavior.
+- Performed **EDA using Python and Pandas** to identify churn patterns across contracts, payment methods, and services.
+- Built interactive **Power BI dashboards** to visualize churn trends, customer segments, and retention insights.
+- Generated actionable insights to support **data-driven customer retention strategies**.
 
----
+### 🏥 AI-Powered Healthcare Intelligence Platform
+**Tech Stack:** Python, Generative AI, LLM, Groq, Streamlit, LangChain, OpenStreetMap
 
+- Built an AI-powered healthcare application to analyze **medical reports and symptoms** and generate structured health summaries and insights.
+- Developed an **AI Health Assistant** to provide contextual guidance based on uploaded reports and health information.
+- Added **risk indicators, warning signs, and recommended next steps** to help users understand their reports.
+- Integrated **OpenStreetMap** to locate nearby hospitals, clinics, pharmacies, and diagnostic labs.
+- Created a **doctor-focused dashboard** with patient details, report summaries, symptom assessment, and healthcare resources.
 ## 🎓 **EDUCATION & CREDENTIALS**
 
 <div align="center">
@@ -176,7 +184,7 @@
 |---|---|
 | **Degree** | B.E. Information Technology (2025) |
 | **University** | Shrimati Kashibai Navale College of Engineering, Pune |
-| **CGPA** | 8.2/10 |
+| **CGPA** | 8.24/10 |
 | **Relevant Coursework** | Data Structures, DBMS, OOP, Web Technologies, Cloud Computing |
 
 </div>
@@ -186,7 +194,7 @@
 ## 💼 **WORK EXPERIENCE**
 
 ### **Data Analyst Intern** | Maestro Intellect, Pune
-**Duration:** 5-6 months  
+**Duration:** 6 months  
 **Tech Stack:** Python, SQL, Power BI, Excel
 
 **Key Responsibilities & Achievements:**
@@ -239,14 +247,12 @@
 ### **🎯 Actively looking for:**
 - ✅ **Data Analyst** roles (Analytics, SQL, BI)
 - ✅ **AI/ML Engineer** roles (fresher-friendly, growth mindset required)
-- ✅ **Full-Stack Developer** roles (Java/Python backend)
 - ✅ **Internships** leading to full-time positions
 
 ### **🔗 Reach out:**
 - 💼 **LinkedIn:** [chaitanya-jadhav-369344259](https://www.linkedin.com/in/chaitanya-jadhav-369344259/)
 - 📧 **Email:** jadhavchaitanya5911@gmail.com
 - 🐙 **GitHub:** [chaitanyajadhav](https://github.com/chaitanyajadhav)
-- 🌐 **Portfolio:** [Your Portfolio Link] *(coming soon)*
 
 ---
 
