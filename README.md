@@ -1,4 +1,4 @@
-this is githubt intro part # Hi 👋, I'm **Chaitanya Jadhav**
+t# Hi 👋, I'm **Chaitanya Jadhav**
 
 <div align="center">
 
