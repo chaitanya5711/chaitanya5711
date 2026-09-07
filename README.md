@@ -1,4 +1,4 @@
-t# Hi 👋, I'm **Chaitanya Jadhav**
+ Hi 👋, I'm **Chaitanya Jadhav**
 
 ### 🚀 Data Analyst | AI/ML Engineer 
 ### Building data-driven solutions that scale | Open to opportunities
