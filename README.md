@@ -1,655 +1,841 @@
-# 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║     ██████╗ ██╗      █████╗ ██╗   ██╗████████╗ █████╗ ███╗   ██╗██╗   ██╗ ║
-║    ██╔════╝ ██║     ██╔══██╗██║   ██║╚══██╔══╝██╔══██╗████╗  ██║╚██╗ ██╔╝ ║
-║    ██║  ███╗██║     ███████║██║   ██║   ██║   ███████║██╔██╗ ██║ ╚████╔╝  ║
-║    ██║   ██║██║     ██╔══██║██║   ██║   ██║   ██╔══██║██║╚██╗██║  ╚██╔╝   ║
-║    ╚██████╔╝███████╗██║  ██║╚██████╔╝   ██║   ██║  ██║██║ ╚████║   ██║    ║
-║     ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ║
-║                                                                              ║
-║          📊 Data Analyst | 🤖 GenAI Enthusiast | 💡 Problem Solver         ║
-║                                                                              ║
-║              Transforming Data into Decisions. Building with AI.            ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-### ✨ Welcome to My Data & AI Engineering Portfolio
-
-**Where data meets intelligence. Building intelligent applications that solve real problems.**
-
----
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/chaitanya5711" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/chaitanya-jadhav-369344259/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:jadhavchaitanya5911@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br><br>
-
-![Views](https://komarev.com/ghpvc/?username=chaitanya5711&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/chaitanya5711?color=0891b2&style=for-the-badge&label=FOLLOWERS)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Information Technology Engineer | Data-Driven Developer    │
-│  Specializing in Analytics & Intelligent Automation          │
-└─────────────────────────────────────────────────────────────┘
-
-     DATA PIPELINE          SQL ANALYTICS         VISUALIZATION
-           ↓                      ↓                      ↓
-      [Raw Data] ─→ [Cleaning] ─→ [Analysis] ─→ [Insights] ─→ [Decisions]
-                                                            ↓
-                                                      AI ENHANCEMENT
-```
-
-I'm passionate about transforming **raw data into actionable intelligence** and building **AI-powered solutions** that make a real impact. My work spans the entire analytics lifecycle—from data engineering and SQL optimization to machine learning applications and generative AI systems.
-
-### 🎯 What Drives Me
-
-- **Problem-First Approach**: I solve real business problems, not chase trends
-- **Full-Stack Analytics**: Data cleaning → Analytics → Visualization → AI  
-- **Practical AI**: Building LLM applications that deliver measurable value
-- **Continuous Learning**: Always exploring new technologies and methodologies
-
----
-
-## 🛠️ Technical Arsenal
-
-### 📊 Data Analytics & Business Intelligence
-
-```
-█████████░ Python          [████████░] Pandas & NumPy
-█████████░ SQL             [████████░] MySQL, SQLite
-█████████░ Power BI        [████████░] Dashboards & DAX
-████████░░ Excel           [████████░] Advanced Analysis
-```
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### 📈 Data Visualization & Analysis
-
-```
-█████████░ Matplotlib      [████████░] Seaborn
-█████████░ Plotly          [████████░] Interactive Charts
-```
-
-<p align="center">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-</p>
-
-### 🤖 Generative AI & Machine Learning
-
-```
-█████████░ LLM & GenAI     [████████░] Prompt Engineering
-█████████░ LangChain       [████████░] RAG Systems
-█████████░ Vector DB       [████████░] Semantic Search
-████████░░ scikit-learn    [████████░] ML Pipelines
-```
-
-<p align="center">
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLM-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude%20API-412991?style=flat-square"/>
-</p>
-
-### ⚙️ Application Development & Automation
-
-```
-█████████░ Streamlit       [████████░] Web Apps
-█████████░ n8n             [████████░] Workflow Automation
-████████░░ Git & GitHub    [████████░] Version Control
-```
-
-<p align="center">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-</p>
-
----
-
-## 🌟 Featured Projects
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                   SHOWCASE OF EXPERTISE                        ║
-║                                                                ║
-║ End-to-End Data Solutions   │   GenAI Applications            ║
-║ ML Pipelines                │   Intelligent Automation        ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-### 🧠 1. AI-Powered Business Analytics & Decision Support Dashboard
-
-**`Python` • `Pandas` • `SQL` • `SQLite` • `Streamlit` • `Plotly` • `Gemini AI`**
-
-<div align="center">
-  
-🔗 **[View Repository](https://github.com/chaitanya5711/AI-Powered-Business-Analytics-Decision-Support-Dashboard)**
-
-</div>
-
-An **end-to-end intelligent analytics platform** that transforms raw sales data into actionable insights with AI-powered decision support.
-
-**Architecture Flow:**
-```
-Raw Sales Data
-    ↓
-[Data Cleaning & Validation]
-    ↓
-[SQL Analytics Engine]
-    ↓
-[Interactive Visualizations]
-    ├→ Revenue Analysis
-    ├→ Sales Trends
-    ├→ Product Performance
-    ├→ Customer Insights
-    └→ Anomaly Detection
-    ↓
-[AI Decision Assistant]
-    ↓
-Business Recommendations
-```
-
-**✨ Key Features:**
-- 📊 Interactive multi-metric business dashboard
-- 🧹 Intelligent data cleaning pipeline (Pandas)
-- 🗄️ Advanced SQL analytics with CTEs & window functions
-- 📈 Revenue, growth, and product analysis
-- 🚨 Automated anomaly detection
-- 📊 Interactive visualizations with Plotly
-- 🤖 AI-powered business insights (Gemini)
-- 🔎 SQL Query Explorer
-- 💡 AI-generated recommendations
-
-**💡 Demonstrates:** Data Pipeline → SQL Analytics → BI → Visualization → AI Enhancement
-
----
-
-### 🛒 2. Brazilian E-Commerce Sales Analysis
-
-**`Python` • `Pandas` • `MySQL` • `Power BI` • `Data Analysis`**
-
-<div align="center">
-
-🔗 **[View Repository](https://github.com/chaitanya5711/brazilian-ecommerce-sales-analysis)**
-
-</div>
-
-Comprehensive analysis of **10,000+ e-commerce transactions** revealing patterns in sales, customer behavior, and operational efficiency.
-
-**Analysis Scope:**
-```
-Dataset (100K Records)
-    ├─ Sales Performance
-    ├─ Customer Behavior  
-    ├─ Product Categories
-    ├─ Seller Analytics
-    ├─ Delivery Efficiency
-    └─ Freight Cost Analysis
-         ↓
-      [12+ Insights]
-```
-
-**✨ Key Insights:**
-- 🎯 Sales trends across regions
-- 👥 Customer segmentation patterns  
-- 🛍️ Top & underperforming categories
-- 🚚 Delivery time optimization opportunities
-- 💰 Order value vs. freight cost correlation
-- 🏪 Seller performance rankings
-
----
-
-### 🤖 3. AI Cold Email Generator
-
-**`Python` • `LangChain` • `Groq` • `ChromaDB` • `Streamlit` • `SQLite`**
-
-<div align="center">
-
-🔗 **[View Repository](https://github.com/chaitanya5711/AI-Cold-Email-Generator)**
-
-</div>
-
-Intelligent system that **generates personalized cold emails** by matching job opportunities with portfolio projects using semantic search.
-
-**Workflow Pipeline:**
-```
-Job Posting (URL/Text)
-    ↓
-[Extract Requirements]
-    ↓
-[Parse Resume/Portfolio]
-    ↓
-[Skill Matching]
-    ├→ Matched Skills
-    └→ Gap Analysis
-    ↓
-[Semantic Search in ChromaDB]
-    ↓
-[Select Relevant Projects]
-    ↓
-[Generate Personalized Email]
-    ↓
-Email Quality Evaluation
-```
-
-**✨ Key Features:**
-- 🔍 Job posting requirement extraction
-- 📄 Resume parsing & skill analysis
-- 🎯 Resume-to-job skill matching
-- 🗃️ Vector DB semantic search (ChromaDB)
-- ✉️ LLM-powered email generation
-- 🤖 AI email evaluation & refinement
-- 📥 Export (PDF/DOCX/TXT)
-- 💾 SQLite email history
-
----
-
-### 🏥 4. AI-Powered Healthcare Intelligence Platform
-
-**`Python` • `Generative AI` • `Groq` • `LangChain` • `Streamlit` • `OpenStreetMap`**
-
-<div align="center">
-
-🔗 **[View Repository](https://github.com/chaitanya5711/AI-Powered-Healthcare-Intelligence-Clinical-Decision-Suppport-Platform)**
-
-</div>
-
-Healthcare assistant combining **medical intelligence** with **facility discovery** to help users understand health information.
-
-**System Architecture:**
-```
-User Input (Report/Symptoms)
-    ↓
-[NLP Processing]
-    ↓
-├─→ [Medical Report Analysis]  
-│   └─→ Structured Summary
-│
-├─→ [Symptom Assessment]
-│   └─→ Risk Indicators
-│
-└─→ [Healthcare Discovery]
-    └─→ Facility Locator
-         ↓
-    AI Health Assistant
-```
-
-**✨ Key Features:**
-- 📄 Medical report analysis & summarization
-- 🧠 AI-powered health insights
-- ⚠️ Risk assessment & warning indicators
-- 🏥 Nearby healthcare facility finder
-- 👨‍⚕️ Doctor-focused analytics dashboard
-- 📍 Integrated mapping with OpenStreetMap
-
-> ⚠️ **Note:** Informational & decision-support only. Not a substitute for professional medical advice.
-
----
-
-### 🍽️ 5. AI Restaurant Assistant
-
-**`Python` • `LLMs` • `Prompt Engineering` • `Streamlit`**
-
-<div align="center">
-
-🔗 **[View Repository](https://github.com/chaitanya5711/AI-Restaurant-Assistant-Python-LLMs-Prompt-Engineering-Streamlit)**
-
-</div>
-
-Conversational AI assistant designed for natural restaurant-related interactions and queries.
-
-**✨ Capabilities:**
-- 🤖 Natural language understanding
-- 🍽️ Restaurant operation queries
-- 💬 Multi-turn conversations
-- ⚙️ Prompt engineering optimization
-- 🔗 Seamless LLM integration
-
----
-
-### ⚙️ 6. AI Restaurant Automation Workflow
-
-**`Python` • `n8n` • `AI Agents` • `NLP` • `WhatsApp API`**
-
-<div align="center">
-
-🔗 **[Explore Project](https://github.com/chaitanya5711)**
-
-</div>
-
-Intelligent automation system that handles **customer inquiries, orders, and reservations** through AI-driven workflows.
-
-```
-Customer Message (WhatsApp/Email)
-    ↓
-[AI Agent Processing]
-    ├─ Intent Detection
-    ├─ Entity Extraction
-    └─ Context Understanding
-    ↓
-[Route to Business Logic]
-    ├→ Order Processing
-    ├→ Reservation System
-    └→ Inquiry Handling
-    ↓
-[Restaurant Backend]
-    ↓
-Auto Response to Customer
-```
-
----
-
-### ✋ 7. AI Hand Gesture Interactive System
-
-**`Python` • `Computer Vision` • `AI` • `Claude AI`**
-
-<div align="center">
-
-🔗 **[View Project](https://github.com/chaitanya5711)**
-
-</div>
-
-Real-time gesture recognition system leveraging computer vision and AI for intuitive interaction.
-
----
-
-## 📊 Additional Data Analytics Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 Netflix Dataset Analysis
-**`Python` • `Pandas` • `Seaborn`**
-
-[Repository](https://github.com/chaitanya5711/Netflix-Dataset-Analysis)
-
-Exploratory analysis of Netflix catalog patterns across:
-- Genre distribution
-- Release trends
-- Geographic content
-- Rating patterns
-
-</td>
-<td width="50%">
-
-### 🛍️ Walmart Sales Analysis  
-**`Python` • `Pandas` • `Matplotlib`**
-
-[Repository](https://github.com/chaitanya5711/Walmart-Sales-Analysis)
-
-Sales performance analysis focusing on:
-- Regional trends
-- Product categories
-- Seasonal patterns
-- Customer segments
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌦️ Weather Dataset Analysis
-**`Python` • `Pandas` • `Seaborn`**
-
-[Repository](https://github.com/chaitanya5711/Weather-Dataset-Analysis)
-
-Meteorological data exploration:
-- Temporal patterns
-- Variable correlations
-- Anomalies & trends
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Professional Experience
-
-```
-┌─────────────────────────────────────────────────────┐
-│          DATA ANALYTICS INTERN                      │
-│          Maestro Intellect                          │
-│          Duration: 6 Months                         │
-└─────────────────────────────────────────────────────┘
-```
-
-**Core Responsibilities:**
-
-```
-Data Pipeline               Analytics & Reporting        Visualization
-    ↓                           ↓                            ↓
-• Data Cleaning          • SQL Analysis             • Power BI Dashboards
-• ETL Development        • Business Insights        • Executive Reports
-• Database Optimization  • Statistical Analysis     • KPI Tracking
-```
-
----
-
-## 🎓 Education
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  🎯 Bachelor of Engineering — Information Technology    ║
-║                                                           ║
-║  📍 Shrimati Kashibai Navale College of Engineering     ║
-║  🏫 Savitribai Phule Pune University                    ║
-║                                                           ║
-║  ⭐ CGPA: 8.24 / 10                                      ║
-║  📅 Graduation: 2025                                     ║
-║                                                           ║
-║  📚 Relevant Coursework:                                 ║
-║     Data Structures • DBMS • OOP • Web Technologies     ║
-║     Cloud Computing • Database Design • Advanced SQL    ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🧠 Core Competencies Matrix
-
-```
-TECHNICAL SKILLS                BUSINESS SKILLS
-├─ Python Programming          ├─ Problem Analysis
-├─ SQL & Query Optimization    ├─ Data-Driven Decision Making
-├─ Data Cleaning & ETL         ├─ Business Intelligence
-├─ Statistical Analysis         ├─ Stakeholder Communication
-├─ Machine Learning Basics      ├─ Project Management
-├─ Generative AI & LLMs        ├─ Documentation
-├─ Data Visualization          ├─ Analytical Thinking
-└─ Cloud Basics                └─ Continuous Learning
-
-SOFT SKILLS
-├─ Technical Problem Solving    ├─ Attention to Detail
-├─ Critical Thinking            ├─ Time Management
-├─ Communication                └─ Adaptability
-```
-
----
-
-## 📈 Learning Roadmap
-
-```
-Current Level                   Progression Path
-    │
-    ├─→ [Advanced SQL] ────→ [Query Optimization]
-    │
-    ├─→ [Power BI/DAX] ───→ [Advanced Analytics]
-    │
-    ├─→ [LLM Applications] → [RAG Systems]
-    │                            ↓
-    │                       [Vector Databases]
-    │
-    ├─→ [ML Fundamentals] → [Scikit-learn]
-    │                            ↓
-    │                       [Neural Networks]
-    │
-    └─→ [Data Engineering] → [ETL Pipelines]
-                                 ↓
-                            [Scalable Systems]
-```
-
-**Current Focus Areas:**
-- 🗄️ Advanced SQL query optimization & execution plans
-- 📊 Complex DAX calculations & Power BI modeling
-- 🤖 Fine-tuning LLM applications for specific domains
-- 🔎 Building production-grade RAG systems
-- 🧠 Scaling ML models to production
-- ⚙️ Cloud-native data pipelines
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanya5711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya5711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=chaitanya5711&theme=tokyonight&hide_border=true&background=0d1117" />
-
-</div>
-
----
-
-## 🏆 Professional Development
-
-```
-Certifications & Learning Initiatives:
-├─ ✅ Prompt Engineering Fundamentals
-├─ ✅ Generative AI & LLM Concepts
-├─ ✅ Prompt Engineering Frameworks
-├─ ✅ Critical Thinking in the AI Era
-├─ 🔄 Advanced SQL Performance Tuning
-├─ 🔄 Machine Learning Specialization
-└─ 🔄 Data Engineering Fundamentals
-```
-
----
-
-## 🎯 Career Opportunities
-
-<div align="center">
-
-### Open to Roles in:
-
-| **Role** | **Focus Area** | **Technologies** |
-|----------|---|---|
-| 📊 **Data Analyst** | Business Intelligence | SQL, Power BI, Python |
-| 🗄️ **BI Analyst** | Dashboard Development | Power BI, Dashboards, DAX |
-| 🤖 **ML Engineer** | Model Development | Python, scikit-learn, TensorFlow |
-| 🧠 **GenAI Engineer** | LLM Applications | LangChain, ChromaDB, RAG |
-| ⚙️ **Automation Engineer** | Workflow Design | n8n, Python, APIs |
-| 📈 **Analytics Engineer** | Data Pipeline | SQL, Python, dbt |
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-### Let's Collaborate!
-
-<a href="https://www.linkedin.com/in/chaitanya-jadhav-369344259/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn%20Profile-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:jadhavchaitanya5911@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-Send-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/chaitanya5711" target="_blank">
-<img src="https://img.shields.io/badge/GitHub%20Profile-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
-## 💡 Philosophy
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║   "Data tells stories. AI helps us listen to them better."    ║
-║                                                                ║
-║   I believe in:                                                ║
-║   ✓ Writing clean, maintainable code                           ║
-║   ✓ Documenting decisions & assumptions                        ║
-║   ✓ Testing thoroughly & iterating quickly                     ║
-║   ✓ Building for impact, not for complexity                    ║
-║   ✓ Continuous learning & experimentation                      ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-### 🌟 Thanks for visiting my profile!
-
-**Feel free to explore my repositories and reach out to connect.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=chaitanya5711&color=0891b2&style=flat-square)
-**Last Updated:** 2025
-
-</div>
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃     Made with 💙 Data. Crafted with 🤖 AI. Built with 🔧 Code.    ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chaitanya Jadhav - Data Analyst & AI Engineer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #0891b2;
+            --primary-dark: #0e7490;
+            --secondary: #6366f1;
+            --accent: #ec4899;
+            --dark: #0f172a;
+            --dark-lighter: #1e293b;
+            --text: #e2e8f0;
+            --text-muted: #94a3b8;
+            --border: #334155;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, var(--dark) 0%, #1a1f35 50%, var(--dark) 100%);
+            color: var(--text);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Animated background */
+        .bg-gradient {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(circle at 20% 50%, rgba(8, 145, 178, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 80% 80%, rgba(99, 102, 241, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 40% 40%, rgba(236, 72, 153, 0.05) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: rgba(15, 23, 42, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            z-index: 1000;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .nav-logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary);
+        }
+
+        /* Hero Section */
+        .hero {
+            margin-top: 80px;
+            min-height: calc(100vh - 80px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 2rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(circle at 30% 30%, rgba(8, 145, 178, 0.15) 0%, transparent 60%),
+                radial-gradient(circle at 70% 70%, rgba(99, 102, 241, 0.15) 0%, transparent 60%);
+            z-index: -1;
+        }
+
+        .hero-content {
+            max-width: 800px;
+            animation: slideInUp 1s ease-out;
+        }
+
+        @keyframes slideInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .hero h1 {
+            font-size: 4rem;
+            font-weight: 800;
+            margin-bottom: 1rem;
+            line-height: 1.2;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 50%, var(--accent) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-subtitle {
+            font-size: 1.3rem;
+            color: var(--text-muted);
+            margin-bottom: 2rem;
+        }
+
+        .cta-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 0.75rem 2rem;
+            border: none;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(8, 145, 178, 0.3);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--primary);
+            border: 2px solid var(--primary);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(8, 145, 178, 0.1);
+        }
+
+        /* Skills Section */
+        .section {
+            padding: 6rem 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .section-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 3rem;
+            text-align: center;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .skill-card {
+            background: linear-gradient(135deg, rgba(15, 23, 42, 0.8) 0%, rgba(30, 41, 59, 0.8) 100%);
+            border: 1px solid var(--border);
+            padding: 2rem;
+            border-radius: 0.75rem;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+        }
+
+        .skill-card:hover {
+            border-color: var(--primary);
+            transform: translateY(-5px);
+            box-shadow: 0 20px 25px -5px rgba(8, 145, 178, 0.2);
+        }
+
+        .skill-category {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 1rem;
+        }
+
+        .skill-items {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+        }
+
+        .skill-badge {
+            background: rgba(8, 145, 178, 0.2);
+            color: var(--primary);
+            padding: 0.5rem 1rem;
+            border-radius: 0.35rem;
+            font-size: 0.85rem;
+            border: 1px solid rgba(8, 145, 178, 0.3);
+        }
+
+        /* Projects Section */
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .project-card {
+            background: linear-gradient(135deg, rgba(15, 23, 42, 0.8) 0%, rgba(30, 41, 59, 0.8) 100%);
+            border: 1px solid var(--border);
+            border-radius: 0.75rem;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .project-card:hover {
+            border-color: var(--primary);
+            transform: translateY(-8px);
+            box-shadow: 0 25px 50px -12px rgba(8, 145, 178, 0.2);
+        }
+
+        .project-header {
+            background: linear-gradient(135deg, rgba(8, 145, 178, 0.2) 0%, rgba(99, 102, 241, 0.2) 100%);
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .project-icon {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .project-title {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--text);
+            margin-bottom: 0.5rem;
+        }
+
+        .project-tech {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        .project-body {
+            padding: 1.5rem;
+        }
+
+        .project-description {
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+            font-size: 0.95rem;
+        }
+
+        .project-features {
+            list-style: none;
+            margin: 1rem 0;
+        }
+
+        .project-features li {
+            color: var(--text-muted);
+            padding: 0.3rem 0;
+            font-size: 0.9rem;
+        }
+
+        .project-features li::before {
+            content: '✓ ';
+            color: var(--primary);
+            font-weight: 700;
+            margin-right: 0.5rem;
+        }
+
+        .project-link {
+            display: inline-block;
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+            margin-top: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .project-link:hover {
+            gap: 0.5rem;
+        }
+
+        .project-link::after {
+            content: ' →';
+            transition: all 0.3s ease;
+        }
+
+        .project-link:hover::after {
+            margin-left: 0.5rem;
+        }
+
+        /* Experience Section */
+        .experience-item {
+            background: linear-gradient(135deg, rgba(15, 23, 42, 0.8) 0%, rgba(30, 41, 59, 0.8) 100%);
+            border: 1px solid var(--border);
+            border-left: 3px solid var(--primary);
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border-radius: 0.5rem;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+        }
+
+        .experience-item:hover {
+            border-left-color: var(--secondary);
+            transform: translateX(5px);
+        }
+
+        .experience-role {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .experience-company {
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+            font-size: 1rem;
+        }
+
+        .experience-details {
+            list-style: none;
+        }
+
+        .experience-details li {
+            color: var(--text-muted);
+            padding: 0.3rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+
+        .experience-details li::before {
+            content: '→';
+            position: absolute;
+            left: 0;
+            color: var(--primary);
+            font-weight: 700;
+        }
+
+        /* Stats Section */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, rgba(8, 145, 178, 0.15) 0%, rgba(99, 102, 241, 0.15) 100%);
+            border: 1px solid rgba(8, 145, 178, 0.3);
+            padding: 2rem;
+            text-align: center;
+            border-radius: 0.75rem;
+            backdrop-filter: blur(10px);
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+        }
+
+        /* Footer */
+        footer {
+            background: linear-gradient(135deg, rgba(15, 23, 42, 0.95) 0%, rgba(30, 41, 59, 0.95) 100%);
+            border-top: 1px solid var(--border);
+            padding: 3rem 2rem;
+            text-align: center;
+            margin-top: 4rem;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .footer-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-links a:hover {
+            color: var(--primary);
+        }
+
+        .footer-divider {
+            height: 1px;
+            background: var(--border);
+            margin: 2rem 0;
+        }
+
+        .footer-text {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .hero-subtitle {
+                font-size: 1.1rem;
+            }
+
+            .section {
+                padding: 3rem 1.5rem;
+            }
+
+            .section-title {
+                font-size: 2rem;
+            }
+
+            .nav-links {
+                gap: 1rem;
+                font-size: 0.8rem;
+            }
+
+            .stat-value {
+                font-size: 2rem;
+            }
+        }
+
+        /* Animations */
+        @keyframes glow {
+            0%, 100% {
+                box-shadow: 0 0 20px rgba(8, 145, 178, 0.3);
+            }
+            50% {
+                box-shadow: 0 0 30px rgba(8, 145, 178, 0.5);
+            }
+        }
+
+        .btn-primary {
+            animation: glow 3s ease-in-out infinite;
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--dark);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--primary);
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--secondary);
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-gradient"></div>
+
+    <nav>
+        <div class="nav-logo">CHAITANYA</div>
+        <ul class="nav-links">
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Chaitanya Jadhav</h1>
+            <p class="hero-subtitle">Data Analyst | AI/ML Enthusiast | Generative AI Engineer</p>
+            <p class="hero-subtitle" style="font-size: 1.1rem; color: var(--text-muted); margin-bottom: 2rem;">
+                Transforming data into intelligent decisions. Building AI-powered solutions that solve real problems.
+            </p>
+            <div class="cta-buttons">
+                <a href="#projects" class="btn btn-primary">Explore Projects</a>
+                <a href="https://github.com/chaitanya5711" class="btn btn-secondary">View GitHub</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="section">
+        <h2 class="section-title">🛠️ Technical Arsenal</h2>
+        
+        <div class="skills-grid">
+            <div class="skill-card">
+                <div class="skill-category">📊 Data Analytics</div>
+                <div class="skill-items">
+                    <span class="skill-badge">Python</span>
+                    <span class="skill-badge">SQL</span>
+                    <span class="skill-badge">Pandas</span>
+                    <span class="skill-badge">MySQL</span>
+                    <span class="skill-badge">SQLite</span>
+                </div>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-category">📈 BI & Visualization</div>
+                <div class="skill-items">
+                    <span class="skill-badge">Power BI</span>
+                    <span class="skill-badge">Plotly</span>
+                    <span class="skill-badge">Matplotlib</span>
+                    <span class="skill-badge">Seaborn</span>
+                    <span class="skill-badge">Excel</span>
+                </div>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-category">🤖 AI & Machine Learning</div>
+                <div class="skill-items">
+                    <span class="skill-badge">Generative AI</span>
+                    <span class="skill-badge">LLMs</span>
+                    <span class="skill-badge">LangChain</span>
+                    <span class="skill-badge">ChromaDB</span>
+                    <span class="skill-badge">RAG</span>
+                </div>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-category">⚙️ Development</div>
+                <div class="skill-items">
+                    <span class="skill-badge">Streamlit</span>
+                    <span class="skill-badge">n8n</span>
+                    <span class="skill-badge">Git</span>
+                    <span class="skill-badge">GitHub</span>
+                    <span class="skill-badge">Python</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="section">
+        <h2 class="section-title">🌟 Featured Projects</h2>
+        
+        <div class="projects-grid">
+            <div class="project-card">
+                <div class="project-header">
+                    <div class="project-icon">🧠</div>
+                    <div class="project-title">AI-Powered Business Analytics</div>
+                    <div class="project-tech">Python • Streamlit • Gemini AI • SQL</div>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">
+                        End-to-end intelligent analytics platform transforming sales data into actionable insights.
+                    </p>
+                    <ul class="project-features">
+                        <li>Interactive BI Dashboard</li>
+                        <li>SQL Analytics Engine</li>
+                        <li>AI-Powered Insights</li>
+                        <li>Anomaly Detection</li>
+                    </ul>
+                    <a href="https://github.com/chaitanya5711/AI-Powered-Business-Analytics-Decision-Support-Dashboard" class="project-link">View Project</a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <div class="project-header">
+                    <div class="project-icon">🛒</div>
+                    <div class="project-title">E-Commerce Sales Analysis</div>
+                    <div class="project-tech">Python • MySQL • Power BI • Data Analysis</div>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">
+                        Comprehensive analysis of 100K+ e-commerce transactions revealing business patterns.
+                    </p>
+                    <ul class="project-features">
+                        <li>Sales & Revenue Analysis</li>
+                        <li>Customer Segmentation</li>
+                        <li>Product Performance</li>
+                        <li>Power BI Dashboards</li>
+                    </ul>
+                    <a href="https://github.com/chaitanya5711/brazilian-ecommerce-sales-analysis" class="project-link">View Project</a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <div class="project-header">
+                    <div class="project-icon">🤖</div>
+                    <div class="project-title">AI Cold Email Generator</div>
+                    <div class="project-tech">LangChain • ChromaDB • Groq • Streamlit</div>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">
+                        AI system generating personalized cold emails by matching jobs with portfolio projects.
+                    </p>
+                    <ul class="project-features">
+                        <li>Job Requirement Extraction</li>
+                        <li>Resume-to-Job Matching</li>
+                        <li>Semantic Search (RAG)</li>
+                        <li>Email Generation</li>
+                    </ul>
+                    <a href="https://github.com/chaitanya5711/AI-Cold-Email-Generator" class="project-link">View Project</a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <div class="project-header">
+                    <div class="project-icon">🏥</div>
+                    <div class="project-title">Healthcare AI Platform</div>
+                    <div class="project-tech">Generative AI • Groq • Streamlit • OpenStreetMap</div>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">
+                        Healthcare assistant combining medical intelligence with facility discovery.
+                    </p>
+                    <ul class="project-features">
+                        <li>Medical Report Analysis</li>
+                        <li>Symptom Assessment</li>
+                        <li>Facility Locator</li>
+                        <li>AI Health Assistant</li>
+                    </ul>
+                    <a href="https://github.com/chaitanya5711/AI-Powered-Healthcare-Intelligence-Clinical-Decision-Suppport-Platform" class="project-link">View Project</a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <div class="project-header">
+                    <div class="project-icon">🍽️</div>
+                    <div class="project-title">AI Restaurant Assistant</div>
+                    <div class="project-tech">LLMs • Prompt Engineering • Streamlit</div>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">
+                        Conversational AI assistant for natural restaurant-related interactions.
+                    </p>
+                    <ul class="project-features">
+                        <li>NLP Understanding</li>
+                        <li>Multi-turn Conversations</li>
+                        <li>Prompt Optimization</li>
+                        <li>LLM Integration</li>
+                    </ul>
+                    <a href="https://github.com/chaitanya5711/AI-Restaurant-Assistant-Python-LLMs-Prompt-Engineering-Streamlit" class="project-link">View Project</a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <div class="project-header">
+                    <div class="project-icon">⚙️</div>
+                    <div class="project-title">Restaurant Automation Workflow</div>
+                    <div class="project-tech">n8n • AI Agents • WhatsApp API</div>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">
+                        Intelligent automation system handling orders and reservations via AI.
+                    </p>
+                    <ul class="project-features">
+                        <li>Intent Detection</li>
+                        <li>Order Processing</li>
+                        <li>Reservation Handling</li>
+                        <li>API Integration</li>
+                    </ul>
+                    <a href="https://github.com/chaitanya5711" class="project-link">View Project</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="experience" class="section">
+        <h2 class="section-title">💼 Professional Experience</h2>
+        
+        <div class="experience-item">
+            <div class="experience-role">Data Analytics Intern</div>
+            <div class="experience-company">Maestro Intellect • 6 Months</div>
+            <ul class="experience-details">
+                <li>Data analysis and reporting with SQL & Python</li>
+                <li>Power BI dashboard development</li>
+                <li>Data cleaning and ETL pipelines</li>
+                <li>Business intelligence and insights extraction</li>
+                <li>Excel and data visualization</li>
+            </ul>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-role">Technical Learner</div>
+            <div class="experience-company">Self-Driven Development & Projects</div>
+            <ul class="experience-details">
+                <li>Built 7+ full-stack data and AI projects</li>
+                <li>Mastered Python, SQL, and Power BI</li>
+                <li>Explored Generative AI and LLM applications</li>
+                <li>Developed end-to-end analytics solutions</li>
+                <li>Contributing to open-source data projects</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="section">
+        <h2 class="section-title">📊 By The Numbers</h2>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value">7+</div>
+                <div class="stat-label">Projects Completed</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">100K+</div>
+                <div class="stat-label">Data Records Analyzed</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">10+</div>
+                <div class="stat-label">Technologies Mastered</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">2025</div>
+                <div class="stat-label">Graduation Year (B.E.)</div>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <div class="footer-content">
+            <h2 class="section-title" style="margin-bottom: 2rem;">Let's Connect</h2>
+            
+            <div class="footer-links">
+                <a href="https://github.com/chaitanya5711" target="_blank">GitHub</a>
+                <a href="https://www.linkedin.com/in/chaitanya-jadhav-369344259/" target="_blank">LinkedIn</a>
+                <a href="mailto:jadhavchaitanya5911@gmail.com">Email</a>
+            </div>
+
+            <div class="footer-divider"></div>
+
+            <p class="footer-text">
+                💙 Made with Data. 🤖 Crafted with AI. 🔧 Built with Code.
+            </p>
+            <p class="footer-text" style="margin-top: 1rem;">
+                © 2025 Chaitanya Jadhav. Exploring the intersection of data, AI, and impact.
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scroll behavior
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+
+        // Add animation on scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver(function(entries) {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.animation = 'slideInUp 0.6s ease-out forwards';
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.project-card, .skill-card, .experience-item').forEach(el => {
+            observer.observe(el);
+        });
+    </script>
+</body>
+</html>
