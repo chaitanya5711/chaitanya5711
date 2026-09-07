@@ -1,269 +1,655 @@
-# Hi 👋, I'm **Chaitanya Jadhav**
+# 
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║     ██████╗ ██╗      █████╗ ██╗   ██╗████████╗ █████╗ ███╗   ██╗██╗   ██╗ ║
+║    ██╔════╝ ██║     ██╔══██╗██║   ██║╚══██╔══╝██╔══██╗████╗  ██║╚██╗ ██╔╝ ║
+║    ██║  ███╗██║     ███████║██║   ██║   ██║   ███████║██╔██╗ ██║ ╚████╔╝  ║
+║    ██║   ██║██║     ██╔══██║██║   ██║   ██║   ██╔══██║██║╚██╗██║  ╚██╔╝   ║
+║    ╚██████╔╝███████╗██║  ██║╚██████╔╝   ██║   ██║  ██║██║ ╚████║   ██║    ║
+║     ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ║
+║                                                                              ║
+║          📊 Data Analyst | 🤖 GenAI Enthusiast | 💡 Problem Solver         ║
+║                                                                              ║
+║              Transforming Data into Decisions. Building with AI.            ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-### 🚀 Data Analyst | AI/ML Engineer 
-### Building data-driven solutions that scale | Open to opportunities
+### ✨ Welcome to My Data & AI Engineering Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-jadhav-369344259/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadhavchaitanya5911@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanyajadhav)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio-link.com)
+**Where data meets intelligence. Building intelligent applications that solve real problems.**
+
+---
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/chaitanya5711" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/chaitanya-jadhav-369344259/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jadhavchaitanya5911@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+![Views](https://komarev.com/ghpvc/?username=chaitanya5711&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/chaitanya5711?color=0891b2&style=for-the-badge&label=FOLLOWERS)
 
 </div>
 
 ---
 
-## 💼 **QUICK PITCH FOR RECRUITERS**
+## 🚀 About Me
 
-🎯 Recent IT Graduate passionate about Data Analytics, AI, and Software Development.
-💻 Skilled in Python, SQL, Power BI, Data Analytics, Generative AI, and workflow automation.
-🚀 I enjoy building practical projects, exploring new technologies, and solving real-world problems with data and AI.
-📍 Based in Pune, India | Open to opportunities and relocation.
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Information Technology Engineer | Data-Driven Developer    │
+│  Specializing in Analytics & Intelligent Automation          │
+└─────────────────────────────────────────────────────────────┘
 
-**📊 Quick Stats:**
-- ✅ **CGPA: 8.24/10** | B.E. Information Technology, SKNCOE Pune
-- ✅ **6 months internship** at Maestro Intellect (Data Analytics)
-- ✅ **6+ production-ready projects** with measurable business impact
-- ✅ **Proficient in:** Python, SQL, Power BI, Excel, Java, n8n, Git
-- ✅ **Currently working on:** AI-powered data pipelines, SQL optimization, portfolio development
+     DATA PIPELINE          SQL ANALYTICS         VISUALIZATION
+           ↓                      ↓                      ↓
+      [Raw Data] ─→ [Cleaning] ─→ [Analysis] ─→ [Insights] ─→ [Decisions]
+                                                            ↓
+                                                      AI ENHANCEMENT
+```
 
----
+I'm passionate about transforming **raw data into actionable intelligence** and building **AI-powered solutions** that make a real impact. My work spans the entire analytics lifecycle—from data engineering and SQL optimization to machine learning applications and generative AI systems.
 
-## **KEY ACCOMPLISHMENTS**
+### 🎯 What Drives Me
 
-| **Achievement** | **Impact** |
-|---|---|
-| 📊 Built **interactive Power BI dashboards** | Created dashboards to track KPIs and generate actionable business insights |
-| 📈 Analyzed **sales and customer data using SQL & Python** | Identified trends and patterns to generate actionable business insights and support data-driven decisions |
-| 🍽️ Automated **restaurant workflows using AI Agents & n8n** | Reduced manual effort by automating customer interactions and order-related tasks |
-| 🤖 Built **AI-powered applications using LLMs** | Developed practical solutions using Generative AI, prompt engineering, and APIs |
-| 🏥 Developed an **AI-powered Healthcare Platform** | Combined LLMs, data analysis, and healthcare APIs to generate useful insights and resources |nes | Currently building AI-powered content & analysis tools |
+- **Problem-First Approach**: I solve real business problems, not chase trends
+- **Full-Stack Analytics**: Data cleaning → Analytics → Visualization → AI  
+- **Practical AI**: Building LLM applications that deliver measurable value
+- **Continuous Learning**: Always exploring new technologies and methodologies
 
 ---
 
-## 🛠️ **TECH STACK**
+## 🛠️ Technical Arsenal
 
-### **Data & Analytics** (Core Strength)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 📊 Data Analytics & Business Intelligence
 
-### **AI/ML & Automation**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+```
+█████████░ Python          [████████░] Pandas & NumPy
+█████████░ SQL             [████████░] MySQL, SQLite
+█████████░ Power BI        [████████░] Dashboards & DAX
+████████░░ Excel           [████████░] Advanced Analysis
+```
 
-### **Programming & Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+</p>
 
----
+### 📈 Data Visualization & Analysis
 
-## 📂 **FEATURED PROJECTS** (Portfolio-Worthy)
+```
+█████████░ Matplotlib      [████████░] Seaborn
+█████████░ Plotly          [████████░] Interactive Charts
+```
 
-### 1️⃣ **📊 Sales Performance Dashboard — Power BI**
-`Python` `Pandas` `Power BI` `Excel` `Data Transformation`
+<p align="center">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+</p>
 
-**Problem:** Sales team was drowning in spreadsheets—no single view of performance across regions and products.
+### 🤖 Generative AI & Machine Learning
 
-**Solution:**
-- Cleaned & transformed **multi-region sales data** using Pandas (handled missing values, standardized formats)
-- Built **interactive Power BI dashboard** with dynamic KPI cards, regional slicers, and trend analysis
-- Designed **10+ visualizations** including revenue heatmaps, product performance rankings, and YoY growth charts
+```
+█████████░ LLM & GenAI     [████████░] Prompt Engineering
+█████████░ LangChain       [████████░] RAG Systems
+█████████░ Vector DB       [████████░] Semantic Search
+████████░░ scikit-learn    [████████░] ML Pipelines
+```
 
-**Impact:**
-- ✅ **60% reduction** in time spent on manual reporting
-- ✅ Enabled drill-down analysis by region/time period—real-time decision-making
-- ✅ Stakeholders now get **actionable insights in seconds** instead of hours
+<p align="center">
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20API-412991?style=flat-square"/>
+</p>
 
-**Skills Demonstrated:** Data cleaning, ETL thinking, BI design, stakeholder communication
+### ⚙️ Application Development & Automation
 
----
+```
+█████████░ Streamlit       [████████░] Web Apps
+█████████░ n8n             [████████░] Workflow Automation
+████████░░ Git & GitHub    [████████░] Version Control
+```
 
-### 2️⃣ **🎬 Netflix Content Analysis — Python EDA**
-`Python` `Pandas` `Matplotlib` `Seaborn` `Exploratory Data Analysis`
-
-**Problem:** Netflix library is massive—need to identify content trends and strategy opportunities.
-
-**Solution:**
-- Performed **comprehensive EDA** on **8,000+ Netflix titles** (years 2008–2021)
-- Cleaned messy date/category fields, handled missing ratings and durations
-- Created **12+ professional visualizations**: heatmaps, histograms, scatter plots, time-series trends
-
-**Key Findings:**
-- 📺 **Drama & Documentary dominate** 40% of library; reality content growing fastest
-- 🌍 **US, India, UK** lead production; Asian content adoption rising
-- 📈 **Content volume peaked in 2019**—shifted focus to quality post-2020
-
-**Impact:**
-- Actionable insights for **content acquisition teams**
-- Pattern recognition on **viewer engagement drivers**
-- Demonstrates EDA proficiency at **interview level**
-
----
-
-### 3️⃣ **🍽️ Restaurant Management Automation — n8n**
-`n8n` `Workflow Automation` `REST APIs` `Webhooks` `Google Sheets`
-
-**Problem:** Restaurant operations fragmented—order intake, kitchen notification, billing all manual and error-prone.
-
-**Solution:**
-- Designed **end-to-end automation workflow** (no backend code needed)
-  - Order intake → WhatsApp/email alerts to kitchen → billing → customer confirmation
-- Built **inventory check logic** that flags low-stock items and logs to Google Sheet automatically
-- Created **daily sales summary report** that runs on schedule and emails manager insights
-- Integrated **conditional logic** to handle edge cases (invalid orders, inventory shortages)
-
-**Impact:**
-- ✅ **Eliminated manual coordination**—saved 2+ hours/day per staff member
-- ✅ **Reduced order errors** by automating kitchen notifications
-- ✅ **Real-time visibility** into inventory and daily sales
-- ✅ Demonstrates **automation thinking** increasingly valued in modern operations/analytics roles
-
-**Why It Matters:** Recruiters love seeing automation—shows you think about efficiency, API integration, and business logic.
+<p align="center">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 🤖 AI Cold Email Generator
-**Tech Stack:** Python, LangChain, Groq, ChromaDB, Streamlit, SQLite
+```
+╔════════════════════════════════════════════════════════════════╗
+║                   SHOWCASE OF EXPERTISE                        ║
+║                                                                ║
+║ End-to-End Data Solutions   │   GenAI Applications            ║
+║ ML Pipelines                │   Intelligent Automation        ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
-- Built an AI-powered cold email generator that analyzes job descriptions and extracts key job requirements using **Groq LLM and LangChain**.
-- Implemented **resume parsing and resume-to-job matching** to identify matched and missing skills.
-- Integrated **ChromaDB** to recommend relevant portfolio projects based on job requirements.
-- Generated personalized recruiter-ready emails with **AI-based email evaluation** and TXT/PDF/DOCX export.
-- Used **Streamlit and SQLite** to build the application and store generated email history.
+### 🧠 1. AI-Powered Business Analytics & Decision Support Dashboard
 
-### 🍽️ Restaurant Automation using AI Agent
-**Tech Stack:** Python, n8n, AI Agents, NLP, WhatsApp API
+**`Python` • `Pandas` • `SQL` • `SQLite` • `Streamlit` • `Plotly` • `Gemini AI`**
 
-- Built an AI-powered restaurant automation workflow using **n8n** to handle customer inquiries, orders, and reservations.
-- Developed an **AI Agent** to understand customer requests and automate routine restaurant operations.
-- Integrated restaurant backend systems, APIs, and messaging platforms for smoother order processing and communication.
-- Automated repetitive workflows to **reduce manual effort and improve operational efficiency**.
+<div align="center">
+  
+🔗 **[View Repository](https://github.com/chaitanya5711/AI-Powered-Business-Analytics-Decision-Support-Dashboard)**
 
-### 📊 Business Intelligence Analysis of Global Tech Layoffs (2020–2025)
-**Tech Stack:** Python, SQL, Pandas, Power BI, Excel
+</div>
 
-- Analyzed global technology layoff data from **2020–2025** to identify trends across companies, industries, locations, and time periods.
-- Cleaned and transformed the dataset using **Python and Pandas** for analysis.
-- Used **SQL** to perform aggregations, filtering, and trend analysis to identify key patterns.
-- Created an interactive **Power BI dashboard** to visualize layoffs and generate business insights.
-- Identified important trends related to layoff volumes, companies, industries, and geographic regions.
+An **end-to-end intelligent analytics platform** that transforms raw sales data into actionable insights with AI-powered decision support.
 
-### 📈 Customer Churn & Retention Analysis
-**Tech Stack:** Python, SQL, Power BI, Pandas
+**Architecture Flow:**
+```
+Raw Sales Data
+    ↓
+[Data Cleaning & Validation]
+    ↓
+[SQL Analytics Engine]
+    ↓
+[Interactive Visualizations]
+    ├→ Revenue Analysis
+    ├→ Sales Trends
+    ├→ Product Performance
+    ├→ Customer Insights
+    └→ Anomaly Detection
+    ↓
+[AI Decision Assistant]
+    ↓
+Business Recommendations
+```
 
-- Analyzed **10K+ telecom customer records** to identify factors affecting customer churn and retention.
-- Used advanced **SQL queries, CTEs, window functions, and aggregations** to analyze customer behavior.
-- Performed **EDA using Python and Pandas** to identify churn patterns across contracts, payment methods, and services.
-- Built interactive **Power BI dashboards** to visualize churn trends, customer segments, and retention insights.
-- Generated actionable insights to support **data-driven customer retention strategies**.
+**✨ Key Features:**
+- 📊 Interactive multi-metric business dashboard
+- 🧹 Intelligent data cleaning pipeline (Pandas)
+- 🗄️ Advanced SQL analytics with CTEs & window functions
+- 📈 Revenue, growth, and product analysis
+- 🚨 Automated anomaly detection
+- 📊 Interactive visualizations with Plotly
+- 🤖 AI-powered business insights (Gemini)
+- 🔎 SQL Query Explorer
+- 💡 AI-generated recommendations
 
-### 🏥 AI-Powered Healthcare Intelligence Platform
-**Tech Stack:** Python, Generative AI, LLM, Groq, Streamlit, LangChain, OpenStreetMap
+**💡 Demonstrates:** Data Pipeline → SQL Analytics → BI → Visualization → AI Enhancement
 
-- Built an AI-powered healthcare application to analyze **medical reports and symptoms** and generate structured health summaries and insights.
-- Developed an **AI Health Assistant** to provide contextual guidance based on uploaded reports and health information.
-- Added **risk indicators, warning signs, and recommended next steps** to help users understand their reports.
-- Integrated **OpenStreetMap** to locate nearby hospitals, clinics, pharmacies, and diagnostic labs.
-- Created a **doctor-focused dashboard** with patient details, report summaries, symptom assessment, and healthcare resources.
-## 🎓 **EDUCATION & CREDENTIALS**
+---
+
+### 🛒 2. Brazilian E-Commerce Sales Analysis
+
+**`Python` • `Pandas` • `MySQL` • `Power BI` • `Data Analysis`**
 
 <div align="center">
 
-| Credential | Details |
-|---|---|
-| **Degree** | B.E. Information Technology (2025) |
-| **University** | Shrimati Kashibai Navale College of Engineering, Pune |
-| **CGPA** | 8.24/10 |
-| **Relevant Coursework** | Data Structures, DBMS, OOP, Web Technologies, Cloud Computing |
+🔗 **[View Repository](https://github.com/chaitanya5711/brazilian-ecommerce-sales-analysis)**
+
+</div>
+
+Comprehensive analysis of **10,000+ e-commerce transactions** revealing patterns in sales, customer behavior, and operational efficiency.
+
+**Analysis Scope:**
+```
+Dataset (100K Records)
+    ├─ Sales Performance
+    ├─ Customer Behavior  
+    ├─ Product Categories
+    ├─ Seller Analytics
+    ├─ Delivery Efficiency
+    └─ Freight Cost Analysis
+         ↓
+      [12+ Insights]
+```
+
+**✨ Key Insights:**
+- 🎯 Sales trends across regions
+- 👥 Customer segmentation patterns  
+- 🛍️ Top & underperforming categories
+- 🚚 Delivery time optimization opportunities
+- 💰 Order value vs. freight cost correlation
+- 🏪 Seller performance rankings
+
+---
+
+### 🤖 3. AI Cold Email Generator
+
+**`Python` • `LangChain` • `Groq` • `ChromaDB` • `Streamlit` • `SQLite`**
+
+<div align="center">
+
+🔗 **[View Repository](https://github.com/chaitanya5711/AI-Cold-Email-Generator)**
+
+</div>
+
+Intelligent system that **generates personalized cold emails** by matching job opportunities with portfolio projects using semantic search.
+
+**Workflow Pipeline:**
+```
+Job Posting (URL/Text)
+    ↓
+[Extract Requirements]
+    ↓
+[Parse Resume/Portfolio]
+    ↓
+[Skill Matching]
+    ├→ Matched Skills
+    └→ Gap Analysis
+    ↓
+[Semantic Search in ChromaDB]
+    ↓
+[Select Relevant Projects]
+    ↓
+[Generate Personalized Email]
+    ↓
+Email Quality Evaluation
+```
+
+**✨ Key Features:**
+- 🔍 Job posting requirement extraction
+- 📄 Resume parsing & skill analysis
+- 🎯 Resume-to-job skill matching
+- 🗃️ Vector DB semantic search (ChromaDB)
+- ✉️ LLM-powered email generation
+- 🤖 AI email evaluation & refinement
+- 📥 Export (PDF/DOCX/TXT)
+- 💾 SQLite email history
+
+---
+
+### 🏥 4. AI-Powered Healthcare Intelligence Platform
+
+**`Python` • `Generative AI` • `Groq` • `LangChain` • `Streamlit` • `OpenStreetMap`**
+
+<div align="center">
+
+🔗 **[View Repository](https://github.com/chaitanya5711/AI-Powered-Healthcare-Intelligence-Clinical-Decision-Suppport-Platform)**
+
+</div>
+
+Healthcare assistant combining **medical intelligence** with **facility discovery** to help users understand health information.
+
+**System Architecture:**
+```
+User Input (Report/Symptoms)
+    ↓
+[NLP Processing]
+    ↓
+├─→ [Medical Report Analysis]  
+│   └─→ Structured Summary
+│
+├─→ [Symptom Assessment]
+│   └─→ Risk Indicators
+│
+└─→ [Healthcare Discovery]
+    └─→ Facility Locator
+         ↓
+    AI Health Assistant
+```
+
+**✨ Key Features:**
+- 📄 Medical report analysis & summarization
+- 🧠 AI-powered health insights
+- ⚠️ Risk assessment & warning indicators
+- 🏥 Nearby healthcare facility finder
+- 👨‍⚕️ Doctor-focused analytics dashboard
+- 📍 Integrated mapping with OpenStreetMap
+
+> ⚠️ **Note:** Informational & decision-support only. Not a substitute for professional medical advice.
+
+---
+
+### 🍽️ 5. AI Restaurant Assistant
+
+**`Python` • `LLMs` • `Prompt Engineering` • `Streamlit`**
+
+<div align="center">
+
+🔗 **[View Repository](https://github.com/chaitanya5711/AI-Restaurant-Assistant-Python-LLMs-Prompt-Engineering-Streamlit)**
+
+</div>
+
+Conversational AI assistant designed for natural restaurant-related interactions and queries.
+
+**✨ Capabilities:**
+- 🤖 Natural language understanding
+- 🍽️ Restaurant operation queries
+- 💬 Multi-turn conversations
+- ⚙️ Prompt engineering optimization
+- 🔗 Seamless LLM integration
+
+---
+
+### ⚙️ 6. AI Restaurant Automation Workflow
+
+**`Python` • `n8n` • `AI Agents` • `NLP` • `WhatsApp API`**
+
+<div align="center">
+
+🔗 **[Explore Project](https://github.com/chaitanya5711)**
+
+</div>
+
+Intelligent automation system that handles **customer inquiries, orders, and reservations** through AI-driven workflows.
+
+```
+Customer Message (WhatsApp/Email)
+    ↓
+[AI Agent Processing]
+    ├─ Intent Detection
+    ├─ Entity Extraction
+    └─ Context Understanding
+    ↓
+[Route to Business Logic]
+    ├→ Order Processing
+    ├→ Reservation System
+    └→ Inquiry Handling
+    ↓
+[Restaurant Backend]
+    ↓
+Auto Response to Customer
+```
+
+---
+
+### ✋ 7. AI Hand Gesture Interactive System
+
+**`Python` • `Computer Vision` • `AI` • `Claude AI`**
+
+<div align="center">
+
+🔗 **[View Project](https://github.com/chaitanya5711)**
+
+</div>
+
+Real-time gesture recognition system leveraging computer vision and AI for intuitive interaction.
+
+---
+
+## 📊 Additional Data Analytics Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 Netflix Dataset Analysis
+**`Python` • `Pandas` • `Seaborn`**
+
+[Repository](https://github.com/chaitanya5711/Netflix-Dataset-Analysis)
+
+Exploratory analysis of Netflix catalog patterns across:
+- Genre distribution
+- Release trends
+- Geographic content
+- Rating patterns
+
+</td>
+<td width="50%">
+
+### 🛍️ Walmart Sales Analysis  
+**`Python` • `Pandas` • `Matplotlib`**
+
+[Repository](https://github.com/chaitanya5711/Walmart-Sales-Analysis)
+
+Sales performance analysis focusing on:
+- Regional trends
+- Product categories
+- Seasonal patterns
+- Customer segments
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌦️ Weather Dataset Analysis
+**`Python` • `Pandas` • `Seaborn`**
+
+[Repository](https://github.com/chaitanya5711/Weather-Dataset-Analysis)
+
+Meteorological data exploration:
+- Temporal patterns
+- Variable correlations
+- Anomalies & trends
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+```
+┌─────────────────────────────────────────────────────┐
+│          DATA ANALYTICS INTERN                      │
+│          Maestro Intellect                          │
+│          Duration: 6 Months                         │
+└─────────────────────────────────────────────────────┘
+```
+
+**Core Responsibilities:**
+
+```
+Data Pipeline               Analytics & Reporting        Visualization
+    ↓                           ↓                            ↓
+• Data Cleaning          • SQL Analysis             • Power BI Dashboards
+• ETL Development        • Business Insights        • Executive Reports
+• Database Optimization  • Statistical Analysis     • KPI Tracking
+```
+
+---
+
+## 🎓 Education
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  🎯 Bachelor of Engineering — Information Technology    ║
+║                                                           ║
+║  📍 Shrimati Kashibai Navale College of Engineering     ║
+║  🏫 Savitribai Phule Pune University                    ║
+║                                                           ║
+║  ⭐ CGPA: 8.24 / 10                                      ║
+║  📅 Graduation: 2025                                     ║
+║                                                           ║
+║  📚 Relevant Coursework:                                 ║
+║     Data Structures • DBMS • OOP • Web Technologies     ║
+║     Cloud Computing • Database Design • Advanced SQL    ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🧠 Core Competencies Matrix
+
+```
+TECHNICAL SKILLS                BUSINESS SKILLS
+├─ Python Programming          ├─ Problem Analysis
+├─ SQL & Query Optimization    ├─ Data-Driven Decision Making
+├─ Data Cleaning & ETL         ├─ Business Intelligence
+├─ Statistical Analysis         ├─ Stakeholder Communication
+├─ Machine Learning Basics      ├─ Project Management
+├─ Generative AI & LLMs        ├─ Documentation
+├─ Data Visualization          ├─ Analytical Thinking
+└─ Cloud Basics                └─ Continuous Learning
+
+SOFT SKILLS
+├─ Technical Problem Solving    ├─ Attention to Detail
+├─ Critical Thinking            ├─ Time Management
+├─ Communication                └─ Adaptability
+```
+
+---
+
+## 📈 Learning Roadmap
+
+```
+Current Level                   Progression Path
+    │
+    ├─→ [Advanced SQL] ────→ [Query Optimization]
+    │
+    ├─→ [Power BI/DAX] ───→ [Advanced Analytics]
+    │
+    ├─→ [LLM Applications] → [RAG Systems]
+    │                            ↓
+    │                       [Vector Databases]
+    │
+    ├─→ [ML Fundamentals] → [Scikit-learn]
+    │                            ↓
+    │                       [Neural Networks]
+    │
+    └─→ [Data Engineering] → [ETL Pipelines]
+                                 ↓
+                            [Scalable Systems]
+```
+
+**Current Focus Areas:**
+- 🗄️ Advanced SQL query optimization & execution plans
+- 📊 Complex DAX calculations & Power BI modeling
+- 🤖 Fine-tuning LLM applications for specific domains
+- 🔎 Building production-grade RAG systems
+- 🧠 Scaling ML models to production
+- ⚙️ Cloud-native data pipelines
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chaitanya5711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya5711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=chaitanya5711&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
 ---
 
-## 💼 **WORK EXPERIENCE**
+## 🏆 Professional Development
 
-### **Data Analyst Intern** | Maestro Intellect, Pune
-**Duration:** 6 months  
-**Tech Stack:** Python, SQL, Power BI, Excel
-
-**Key Responsibilities & Achievements:**
-- 📊 Developed **Power BI dashboards** for client performance tracking
-- 🔍 Performed **SQL data analysis** on customer behavior datasets
-- 📈 Created Python scripts for **automated ETL pipelines**
-- 📉 Cleaned and prepared data for **business intelligence reports**
-- ✅ Delivered **3+ client-facing reports** with actionable insights
-
----
-
-## 📚 **CURRENTLY LEARNING & EXPLORING**
-
-- 🤖 **Large Language Models (LLMs)** — Building AI-powered content analysis tools
-- 🔗 **Advanced SQL optimization** — Working with complex queries, indexing strategies
-- 📊 **Advanced Power BI** — DAX formulas, dynamic measures, performance tuning
-- 🎯 **API Design & Integration** — Building RESTful APIs with Python/Flask
-- 🧠 **Machine Learning** — Predictive analytics, classification models with scikit-learn
+```
+Certifications & Learning Initiatives:
+├─ ✅ Prompt Engineering Fundamentals
+├─ ✅ Generative AI & LLM Concepts
+├─ ✅ Prompt Engineering Frameworks
+├─ ✅ Critical Thinking in the AI Era
+├─ 🔄 Advanced SQL Performance Tuning
+├─ 🔄 Machine Learning Specialization
+└─ 🔄 Data Engineering Fundamentals
+```
 
 ---
 
-
----
-
-## 🎯 **WHAT MAKES ME STAND OUT**
-
-✨ **Problem-Solver:** I don't just write code—I solve business problems (automation, dashboards, insights)
-
-✨ **Full-Spectrum:** Comfortable across data (Python, SQL, BI), backend (Java, JDBC), and automation (n8n)
-
-✨ **Impact-Focused:** Every project has measurable outcomes (time saved, errors reduced, insights gained)
-
-✨ **Lifelong Learner:** Actively exploring LLMs, AI pipelines, and modern data tools
-
-✨ **Communication:** Can explain technical concepts to non-technical stakeholders (proven in BI/dashboard work)
-
----
-
-## 📧 **LET'S CONNECT**
-
-### **🎯 Actively looking for:**
-- ✅ **Data Analyst** roles (Analytics, SQL, BI)
-- ✅ **AI/ML Engineer** roles (fresher-friendly, growth mindset required)
-- ✅ **Internships** leading to full-time positions
-
-### **🔗 Reach out:**
-- 💼 **LinkedIn:** [chaitanya-jadhav-369344259](https://www.linkedin.com/in/chaitanya-jadhav-369344259/)
-- 📧 **Email:** jadhavchaitanya5911@gmail.com
-- 🐙 **GitHub:** [chaitanyajadhav](https://github.com/chaitanyajadhav)
-
----
+## 🎯 Career Opportunities
 
 <div align="center">
 
-### 💡 *"Data is the new oil. I turn it into insights, and automation into efficiency."*
+### Open to Roles in:
 
-### ⭐ *If you found this interesting, consider starring the repo!*
+| **Role** | **Focus Area** | **Technologies** |
+|----------|---|---|
+| 📊 **Data Analyst** | Business Intelligence | SQL, Power BI, Python |
+| 🗄️ **BI Analyst** | Dashboard Development | Power BI, Dashboards, DAX |
+| 🤖 **ML Engineer** | Model Development | Python, scikit-learn, TensorFlow |
+| 🧠 **GenAI Engineer** | LLM Applications | LangChain, ChromaDB, RAG |
+| ⚙️ **Automation Engineer** | Workflow Design | n8n, Python, APIs |
+| 📈 **Analytics Engineer** | Data Pipeline | SQL, Python, dbt |
 
 </div>
 
 ---
 
-## 📝 **PRO TIPS FOR RECRUITERS**
+## 📬 Connect With Me
 
-> 👉 **Check out my pinned repositories** for the most impressive projects  
-> 👉 **My recent commits** show active learning and skill development  
-> 👉 **Most projects include detailed READMEs** with setup instructions and demo links  
-> 👉 **Ready to discuss** architecture decisions, technical trade-offs, and learnings over a call
+<div align="center">
+
+### Let's Collaborate!
+
+<a href="https://www.linkedin.com/in/chaitanya-jadhav-369344259/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn%20Profile-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:jadhavchaitanya5911@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-Send-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/chaitanya5711" target="_blank">
+<img src="https://img.shields.io/badge/GitHub%20Profile-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 ---
 
-**Last Updated:** May 2026 | Made with ❤️ for impact-driven tech careers
+## 💡 Philosophy
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   "Data tells stories. AI helps us listen to them better."    ║
+║                                                                ║
+║   I believe in:                                                ║
+║   ✓ Writing clean, maintainable code                           ║
+║   ✓ Documenting decisions & assumptions                        ║
+║   ✓ Testing thoroughly & iterating quickly                     ║
+║   ✓ Building for impact, not for complexity                    ║
+║   ✓ Continuous learning & experimentation                      ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting my profile!
+
+**Feel free to explore my repositories and reach out to connect.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=chaitanya5711&color=0891b2&style=flat-square)
+**Last Updated:** 2025
+
+</div>
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃     Made with 💙 Data. Crafted with 🤖 AI. Built with 🔧 Code.    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
