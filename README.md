@@ -1,6 +1,5 @@
 t# Hi 👋, I'm **Chaitanya Jadhav**
-<img width="970" height="1024" alt="image" src="https://github.com/user-attachments/assets/4856a2f5-e470-4efc-a327-08549848c501" />
-
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4856a2f5-e470-4efc-a327-08549848c501" />
 <div align="center">
 
 ### 🚀 Data Analyst | AI/ML Engineer 
